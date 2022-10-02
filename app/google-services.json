@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627861013027",
+    "firebase_url": "https://remote-patient-monitorin-2df3f-default-rtdb.firebaseio.com",
+    "project_id": "remote-patient-monitorin-2df3f",
+    "storage_bucket": "remote-patient-monitorin-2df3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627861013027:android:a3c1c673f95719478aa796",
+        "android_client_info": {
+          "package_name": "com.example.rpms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627861013027-jmta1tn3s31m0s4c74cn8ivtlg1egd6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgHqRllH6E0WyhQveRVWVbnz6qIX0B1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627861013027-jmta1tn3s31m0s4c74cn8ivtlg1egd6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
